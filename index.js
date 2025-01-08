@@ -35,7 +35,7 @@ links.forEach(link => {
 
 document.addEventListener('contextmenu', function (event) {
   event.preventDefault();
-  alert('Right-click is disabled on this website.');
+  alert('Inspection is disabled.');
 });
 
 // Disable specific keyboard shortcuts
